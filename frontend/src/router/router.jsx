@@ -7,7 +7,7 @@ import ContactUs from "../pages/miniPage/ContactUs.jsx";
 import SingleBlog from "../pages/blogs/singleBlog/SingleBlog.jsx";
 import Login from "../pages/user/Login.jsx";
 import Register from "../pages/user/Register.jsx";
-import AdminLayout from "../pages/Admin/AdminLayout.jsx";
+import AdminLayout from "../pages/admin/AdminLayout.jsx";
 import Dashboard from "../pages/admin/dashboard/Dashboard.jsx";
 import AddPost from "../pages/admin/post/AddPost.jsx";
 import ManagePosts from "../pages/admin/post/ManagePosts.jsx";
