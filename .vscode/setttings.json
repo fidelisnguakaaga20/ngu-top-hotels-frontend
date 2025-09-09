@@ -1,0 +1,7 @@
+{
+  "editor.quickSuggestions": { "strings": true },
+  "tailwindCSS.emmetCompletions": true,
+  "files.associations": { "*.jsx": "javascriptreact" },
+
+  "tailwindCSS.experimental.configFile": "frontend/tailwind.config.js"
+}
